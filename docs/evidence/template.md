@@ -6,7 +6,7 @@
 
 ## 2. My Team / Role
 
-- Team:Team 07 (EatMeFirst)
+- Team:Team 07 (EatMeFirst) 
 - Role in Sprint:Data / Documentation
 
 ## 3. What I did in this repo
