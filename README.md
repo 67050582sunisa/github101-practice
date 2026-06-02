@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| สุนิสา ดอนพูนไพร | Team 07 | Data / Documentation |docs/evidence/67050582sunisa.md| https://github.com/67050582sunisa/github101-practice/issues/1 |
+| สุนิสา ดอนพูนไพร | Team 07 | Data / Documentation |https://github.com/67050582sunisa/github101-practice/blob/main/docs/evidence/67050582sunisa.md| https://github.com/67050582sunisa/github101-practice/issues/1 |
 
 ---
 
