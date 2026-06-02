@@ -11,7 +11,7 @@
 
 ## 3. What I did in this repo
 
-Fork repository github101-practice
+Fork repository github101-practice 
 อ่านและศึกษาข้อมูลใน README.md
 เพิ่มข้อมูลของตนเองใน Student Submission Table
 สร้างไฟล์ evidence ของตนเองในโฟลเดอร์ docs/evidence
